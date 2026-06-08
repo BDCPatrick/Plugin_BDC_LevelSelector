@@ -1,5 +1,15 @@
-# Visual Studio 2015 user specific files
+# Windows system files
+**/Thumbs.db
+
+# JetBrains IDEs config folder
 .vs/
+.vs/*
+.idea/
+.idea/*
+.claude/
+.claude/*
+.junie/
+.junie/*
 
 # Compiled Object files
 *.slo
